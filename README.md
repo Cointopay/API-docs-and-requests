@@ -1,4 +1,4 @@
-# Cointopay - API-docs-and-requests
+# Cointopay.com - API-docs-and-requests
 API docs
 
 + IOS app:
